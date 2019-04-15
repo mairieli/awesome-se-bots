@@ -2,4 +2,7 @@
 
 A curated list of awesome GitHub bots. 
 
-Please do, contributions are more than welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+## Contributing
+Your contributions are more than welcome! 
+
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
