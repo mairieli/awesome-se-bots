@@ -9,8 +9,8 @@ If you have something awesome to contribute, this is how you do it.
 ### Guidelines
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome-github-bots GitHub page.
-2. Click on the readme.md file.
+1. Access the [awesome-github-bots GitHub page](https://github.com/mairieli/awesome-github-bots).
+2. Click on the [readme.md](README.md) file.
 3. Now click on the edit icon. 
 4. You can start editing the text of the file in the in-browser editor:
 
