@@ -11,7 +11,11 @@ A curated list of awesome GitHub bots.
 
 *GitHub apps builded with [Probot](https://probot.github.io/)*
 
-* [Work In Progress](https://github.com/wip/app) - Prevent merging of Pull Requests with "WIP" in the title
+* [Work In Progress](https://github.com/wip/app) - Prevent merging of pull requests with "WIP" in the title
+
+* [Stale](https://github.com/probot/stale) - Close stale issue and pull request 
+
+* [Delete merged branch]() - The bot automatically deletes a branch after it's merged
 
 ## Contributing
 Your contributions are more than welcome! 
