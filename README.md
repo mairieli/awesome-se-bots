@@ -7,7 +7,7 @@ A curated list of awesome GitHub bots.
 
 ---
 
-### Probot bot's
+### Probot's bot
 
 *GitHub apps builded with [Probot](https://probot.github.io/)*
 
