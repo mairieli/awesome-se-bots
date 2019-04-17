@@ -15,7 +15,11 @@ A curated list of awesome GitHub bots.
 
 * [Stale](https://github.com/probot/stale) - Close stale issue and pull request 
 
-* [Delete merged branch]() - The bot automatically deletes a branch after it's merged
+* [Delete merged branch](https://github.com/svanboxel/delete-merged-branch) - The bot automatically deletes a branch after it's merged
+
+* [Developer Certificate of Origin](https://github.com/probot/dco) - Enforce the Developer Certificate of Origin (DCO) on pull requests
+
+* [Request Info](https://github.com/behaviorbot/request-info) - Requests more info on issues and pull requests with the default title or an empty body
 
 ## Contributing
 Your contributions are more than welcome! 
