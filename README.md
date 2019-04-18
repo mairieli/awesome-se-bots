@@ -3,7 +3,8 @@
 A curated list of awesome GitHub bots. 
 
 ## Table of Contents
-- [Probot bot's](#probot)
+- [Probot bots](#probot)
+- [Software company/community bots](#software)
 
 ---
 
@@ -21,9 +22,11 @@ A curated list of awesome GitHub bots.
 
 * [Request Info](https://github.com/behaviorbot/request-info) - Requests more info on issues and pull requests with the default title or an empty body
 
-### Reviewer Assignment
+### Software company/community bots
 
-* [Rust high-five](https://github.com/rust-highfive)
+*Github bots implemented by software companies or communities*
+
+* [Rust high-five](https://github.com/rust-highfive) - The bot main task is welcoming new contributors and assigning reviewers
 
 ## Contributing
 Your contributions are more than welcome! 
