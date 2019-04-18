@@ -7,9 +7,9 @@ A curated list of awesome GitHub bots.
 
 ---
 
-### Probot's bot
+### Probot bots
 
-*GitHub apps builded with [Probot](https://probot.github.io/)*
+*GitHub apps built with [Probot](https://probot.github.io/)*
 
 * [Work In Progress](https://github.com/wip/app) - Prevent merging of pull requests with "WIP" in the title
 
@@ -20,6 +20,10 @@ A curated list of awesome GitHub bots.
 * [Developer Certificate of Origin](https://github.com/probot/dco) - Enforce the Developer Certificate of Origin (DCO) on pull requests
 
 * [Request Info](https://github.com/behaviorbot/request-info) - Requests more info on issues and pull requests with the default title or an empty body
+
+### Reviewer Assignment
+
+* [Rust high-five](https://github.com/rust-highfive)
 
 ## Contributing
 Your contributions are more than welcome! 
