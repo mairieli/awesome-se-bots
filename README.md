@@ -1,6 +1,6 @@
 # Awesome GitHub Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome GitHub bots. 
+A curated list of awesome GitHub apps and bots that have a GitHub integration. 
 
 ## Table of Contents
 - [Probot bots](#probot)
