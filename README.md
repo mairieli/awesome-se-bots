@@ -26,7 +26,9 @@ A curated list of awesome GitHub apps and bots that have a GitHub integration.
 
 *Github bots implemented by software companies or communities*
 
-* [Rust high-five](https://github.com/rust-highfive) - The bot main task is welcoming new contributors and assigning reviewers
+* [Rust high-five](https://github.com/rust-highfive) - The bot's main task is welcoming new contributors and assigning reviewers
+
+* [Refactoring-Bot](https://github.com/Refactoring-Bot/Refactoring-Bot) - Suggests automatic code smell refactorings via pull requests
 
 ## Contributing
 Your contributions are more than welcome! 
