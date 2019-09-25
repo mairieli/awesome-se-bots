@@ -39,6 +39,12 @@ A curated list of awesome GitHub apps and bots that have a GitHub integration.
 
 ### Scientific Articles
 
+*Github bots related research*
+
+* [The Power of Bots: Understanding Bots in OSS Projects](https://mairieli.github.io/files/papers/CSCW2018.pdf)
+
+* [Should I Stale or Should I Close? An Analysis of a Bot that Closes Abandoned Issues and Pull Requests](https://mairieli.github.io/files/papers/BotSE2019.pdf)
+
 ### Blog Posts
 
 ## Contributing
