@@ -3,11 +3,16 @@
 A curated list of awesome GitHub apps and bots that have a GitHub integration. 
 
 ## Table of Contents
-- [Probot bots](#probot)
-- [Software company/community bots](#software)
-
+- [Bots](#bots) 
+    - [Probot bots](#probot)
+    - [Software company/community bots](#software)
+- [Publications](#publications)
+    - [Scientific Articles](#articles)
+    - [Blog Posts](#posts)
+  
 ---
 
+## Bots
 ### Probot bots
 
 *GitHub apps built with [Probot](https://probot.github.io/)*
@@ -29,6 +34,12 @@ A curated list of awesome GitHub apps and bots that have a GitHub integration.
 * [Rust high-five](https://github.com/rust-highfive) - The bot's main task is welcoming new contributors and assigning reviewers
 
 * [Refactoring-Bot](https://github.com/Refactoring-Bot/Refactoring-Bot) - Suggests automatic code smell refactorings via pull requests
+
+## Publications
+
+### Scientific Articles
+
+### Blog Posts
 
 ## Contributing
 Your contributions are more than welcome! 
