@@ -47,6 +47,10 @@ A curated list of awesome GitHub apps and bots that have a GitHub integration.
 
 ### Blog Posts
 
+*Blog posts discussing GitHub bots*
+
+* [Best bots to improve your software development process](https://livablesoftware.com/best-bots-software-development/)
+
 ## Contributing
 Your contributions are more than welcome! 
 
