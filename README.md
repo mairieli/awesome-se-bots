@@ -35,24 +35,6 @@ A curated list of awesome GitHub apps and bots that have a GitHub integration.
 
 * [Refactoring-Bot](https://github.com/Refactoring-Bot/Refactoring-Bot) - Suggests automatic code smell refactorings via pull requests
 
-### To be classified:
-
-* [analytically](https://github.com/analytically)
-* [googlebot](https://github.com/googlebot)
-* [jquerybot](https://github.com/jquerybot)
-* [jsf-clabot](https://github.com/jsf-clabot)
-* [KernelPRBot](https://github.com/KernelPRBot)
-* [mary-poppins](https://github.com/mary-poppins)
-* [mention-bot](https://github.com/mention-bot)
-* [meteor-bot](https://github.com/meteor-bot)
-* [rails-bot](https://github.com/rails-bot)
-* [react-native-bot](https://github.com/react-native-bot)
-* [sizebot](https://github.com/sizebot)
-* [stale[bot]](https://github.com/stale[bot])
-* [twbs-closer](https://github.com/twbs-closer)
-* [twbs-rorschach](https://github.com/twbs-rorschach)
-* [twbs-savage](https://github.com/twbs-savage)
-
 ## Publications
 
 ### Scientific Articles
