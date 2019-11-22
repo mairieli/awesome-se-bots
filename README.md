@@ -98,6 +98,7 @@ A curated list of awesome Software Engineering bots (SE bots).
 [The rise of Social Bots](https://doi.org/10.1145/2818717)
 
 *Theoretical background on bots*
+
 [Functional imaging of `Theory of Mind`](https://doi.org/10.1016/S1364-6613(02)00025-6)
 
 [The Media Equation: How people Treat Computers, Television, and New Media Like Real People and Places](https://dl.acm.org/citation.cfm?id=236605)
