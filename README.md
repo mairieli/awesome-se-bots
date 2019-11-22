@@ -40,6 +40,7 @@ A curated list of awesome Software Engineering bots (SE bots).
 ### Scientific Articles
 
 *Motivation for bots in SE*
+
 [Disrupting Developer Productivity One Bot at a Time](https://alexeyza.com/pdf/fse-var2016.pdf)
 
 [Software Developer's Perceptions of productivity](http://thomas-zimmermann.com/publications/files/meyer-fse-2014.pdf)
@@ -57,6 +58,7 @@ A curated list of awesome Software Engineering bots (SE bots).
 [Is it an Agent, or Just a Program? A Taxonomy for Autonomous Agents](https://www.researchgate.net/profile/Stan_Franklin/publication/221457111_Is_it_an_Agent_or_Just_a_Program_A_Taxonomy_for_Autonomous_Agents/links/0f317530ba440e7979000000/Is-it-an-Agent-or-Just-a-Program-A-Taxonomy-for-Autonomous-Agents.pdf)
 
 *Empirical research on Bots*
+
 [The Power of Bots: Understanding Bots in OSS Projects](http://igorwiese.com/images/papers/CSCW2018.pdf)
 
 *Do developers trust / accept bot contributions?*
@@ -85,7 +87,7 @@ A curated list of awesome Software Engineering bots (SE bots).
 
 [Should I Stale or Should I Close? An Analysis of a Bot That Closes Abandoned Issues and Pull Requests](https://ieeexplore.ieee.org/document/8823598)
 
-*Design Principles for Bots (Conversational or Other)
+*Design Principles for Bots (Conversational or Other)*
 
 [How to design a program repair bot?: Insights from the repairnator project](https://doi.org/10.1145/3183519.3183540)
 
