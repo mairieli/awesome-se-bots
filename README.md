@@ -67,6 +67,8 @@ A curated list of awesome Software Engineering bots (SE bots).
 
 [Sorry to Bother you: Designing Bots for Effective Recommendations](https://doi.org/10.1109/BotSE.2019.00021)
 
+[Perception and Acceptance of an Autonomous Refactoring Bot](https://doi.org/10.5220/0009168803030310)
+
 *Papers that describe Bot implementations or concepts*
 
 [Repairnator patches programs automatically](https://doi.org/10.1145/3349589)
