@@ -27,6 +27,8 @@ A curated list of awesome Software Engineering bots (SE bots).
 
 * [Request Info](https://github.com/behaviorbot/request-info) - Requests more info on issues and pull requests with the default title or an empty body
 
+* [Sentiment Bot](https://probot.github.io/apps/sentiment-bot/) - Analyzes the sentiment of comments posted on GitHub, and leaves a comment with a custom message in response to toxic message to help enforce code of conducts. 
+
 ### Software company/community bots
 
 *Github bots implemented by software companies or communities*
@@ -40,6 +42,10 @@ A curated list of awesome Software Engineering bots (SE bots).
 ## Publications
 
 ### Scientific Articles
+
+The below is a list of peer-reviewed papers related to bots, and bots applied
+to software engineering. In addition to this list, you can also consult the
+paper repository maintained by BotSE (see [link](http://papers.botse.org/home)). 
 
 *Motivation for bots in SE*
 
