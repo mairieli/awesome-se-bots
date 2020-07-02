@@ -35,6 +35,8 @@ A curated list of awesome Software Engineering bots (SE bots).
 
 * [Refactoring-Bot](https://github.com/Refactoring-Bot/Refactoring-Bot) - Suggests automatic code smell refactorings via pull requests
 
+* [MergeResolver](https://blogs.grammatech.com/mergeresolver-automatic-merge-conflict-resolution) - Automates resolving merge conflicts
+
 ## Publications
 
 ### Scientific Articles
@@ -66,6 +68,8 @@ A curated list of awesome Software Engineering bots (SE bots).
 [Among the Machines: Human-Bot Interaction on Social Q&A Websites](https://cmustrudel.github.io/papers/chi16bot.pdf)
 
 [Sorry to Bother you: Designing Bots for Effective Recommendations](https://doi.org/10.1109/BotSE.2019.00021)
+
+[Perception and Acceptance of an Autonomous Refactoring Bot](https://doi.org/10.5220/0009168803030310)
 
 *Papers that describe Bot implementations or concepts*
 
