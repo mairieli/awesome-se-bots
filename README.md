@@ -77,6 +77,8 @@ paper repository maintained by BotSE (see [link](http://papers.botse.org/home)).
 
 [Perception and Acceptance of an Autonomous Refactoring Bot](https://doi.org/10.5220/0009168803030310)
 
+[Bots Don't Mind Waiting, Do They? Comparing the Interaction With Automatically and Manually Created Pull Requests](https://arxiv.org/abs/2103.03591)
+
 *Papers that describe Bot implementations or concepts*
 
 [Repairnator patches programs automatically](https://doi.org/10.1145/3349589)
