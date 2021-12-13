@@ -123,6 +123,6 @@ paper repository maintained by BotSE (see [link](http://papers.botse.org/home)).
 * [Best bots to improve your software development process](https://livablesoftware.com/best-bots-software-development/)
 
 ## Contributing
-Your contributions are more than welcome! 
+Your contributions are more than welcome!
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
