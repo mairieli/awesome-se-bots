@@ -31,8 +31,6 @@ A curated list of awesome Software Engineering bots (SE bots).
 
 * [GrammarlyBot](https://github.com/behaviorbot/request-info) - This bot automatically improves grammar and spellings in your README.md files
 
-* [imgbot](https://github.com/marketplace/imgbot) - Automatically optimize images in your repository
-
 ### Software company/community bots
 
 *Github bots implemented by software companies or communities*
@@ -42,6 +40,8 @@ A curated list of awesome Software Engineering bots (SE bots).
 * [Refactoring-Bot](https://github.com/Refactoring-Bot/Refactoring-Bot) - Suggests automatic code smell refactorings via pull requests
 
 * [MergeResolver](https://blogs.grammatech.com/mergeresolver-automatic-merge-conflict-resolution) - Automates resolving merge conflicts
+
+* [imgbot](https://github.com/marketplace/imgbot) - Automatically optimize images in your repository
 
 ## Publications
 
