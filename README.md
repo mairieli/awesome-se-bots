@@ -29,7 +29,7 @@ A curated list of awesome Software Engineering bots (SE bots).
 
 * [Sentiment Bot](https://probot.github.io/apps/sentiment-bot/) - Analyzes the sentiment of comments posted on GitHub, and leaves a comment with a custom message in response to toxic message to help enforce code of conducts. 
 
-* [GrammarlyBot](https://github.com/behaviorbot/request-info) - This bot automatically improves grammar and spellings in your README.md files
+* [GrammarlyBot](https://github.com/apps/grammarly-bot) - This bot automatically improves grammar and spellings in your README.md files
 
 ### Software company/community bots
 
