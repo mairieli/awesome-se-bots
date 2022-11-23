@@ -29,6 +29,8 @@ A curated list of awesome Software Engineering bots (SE bots).
 
 * [Sentiment Bot](https://probot.github.io/apps/sentiment-bot/) - Analyzes the sentiment of comments posted on GitHub, and leaves a comment with a custom message in response to toxic message to help enforce code of conducts. 
 
+* [GrammarlyBot](https://github.com/apps/grammarly-bot) - This bot automatically improves grammar and spellings in your README.md files
+
 ### Software company/community bots
 
 *Github bots implemented by software companies or communities*
@@ -38,6 +40,8 @@ A curated list of awesome Software Engineering bots (SE bots).
 * [Refactoring-Bot](https://github.com/Refactoring-Bot/Refactoring-Bot) - Suggests automatic code smell refactorings via pull requests
 
 * [MergeResolver](https://blogs.grammatech.com/mergeresolver-automatic-merge-conflict-resolution) - Automates resolving merge conflicts
+
+* [imgbot](https://github.com/marketplace/imgbot) - Automatically optimize images in your repository
 
 ## Publications
 
